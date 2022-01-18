@@ -1,0 +1,14 @@
+{
+  "name": "latihan_developing",
+  "version": "1.0.0",
+  "description": "Ini folder untuk latihan membuat Web/App statis",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arif Alexander",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
